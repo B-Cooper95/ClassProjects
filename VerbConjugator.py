@@ -29,6 +29,6 @@ def conjug(pro, verb):
 
 print()
 conjug("el", "correr")
-conjug("nosotros", "ayudar")
+conjug("nosotros", "vivir")
 conjug("tu", "ayudar")
 
