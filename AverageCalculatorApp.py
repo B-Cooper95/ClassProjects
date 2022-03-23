@@ -1,4 +1,15 @@
 """
+This is the final product of a lengthy lesson on GUIs.
+Students need to submit a coding project for their AP test which is 30% of their test grade.
+In this program, students get familiar with the tKinter package by making a simple grade average calulator.
+Students also get a brief introduction to the Python Image Library to attach a premade logo to their
+programs to provide for a level of aesthetic (see CalcLogo.png).
+
+This lesson is followed up by a tKinter lab where students create a program for users to select musical scales (See Music Theory App).
+
+"""
+
+"""
 Graphical User Interfaces with Tk -Python Documentation
 https://docs.python.org/3/library/tk.html
 
