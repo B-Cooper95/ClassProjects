@@ -1,4 +1,7 @@
-
+'''
+For this assignment, students practice branching statements (if/else here) and string slicing by creating a program that conjugates
+regular verbs in spanish based on their pronoun and their verb ending.
+'''
 def conjug(pro, verb):
     stem, ending = verb[:-2], verb[-2:]
     if pro == "yo":
