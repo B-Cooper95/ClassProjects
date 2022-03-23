@@ -1,4 +1,10 @@
 """
+An extra-credit project for more technically inclined students. 
+They create a program that takes in a user-input quadratic equation. The string is cleaned out
+to get the a, b, and c, solving for x with those values.
+"""
+
+"""
 We create a function that breaks down a quadratic equation someone enters
 into a list of a, b, and c values.
 """
@@ -46,7 +52,7 @@ from the quadratic equation
 def getFactors(a, c):
     fA = []
     fC = []
-
+    
     if a > 0:
         for i in range(1,a+1):
             if a%i==0:
